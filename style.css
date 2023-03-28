@@ -1,0 +1,42 @@
+/* common command start */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f3f1ff;
+  font-family: "Poppins", sans-serif;
+}
+/* common command end */
+/* nav area start */
+nav {
+  background: #562eff;
+  height: 94px;
+}
+.navigation {
+  display: flex;
+  justify-content: space-evenly;
+}
+.logo img {
+  width: 40.42px;
+  height: 51px;
+}
+.logo h1 {
+  color: white;
+}
+.logo {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+.links a {
+  text-decoration: none;
+  color: white;
+}
+.links ul {
+  display: inline-block;
+}
+.link {
+  display: flex;
+  gap: 36px;
+  align-items: center;
+}
+/* nav area end */
